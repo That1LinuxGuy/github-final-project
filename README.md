@@ -19,3 +19,5 @@ All contributions undergo a code review process.
 
 Licensing:
 Contributions are licensed.
+
+The simple interest calculator is a script designed to be quick and easy to use locally to calculate interest for you. 
