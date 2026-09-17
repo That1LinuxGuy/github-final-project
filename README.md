@@ -21,3 +21,11 @@ Licensing:
 Contributions are licensed.
 
 The simple interest calculator is a script designed to be quick and easy to use locally to calculate interest for you. 
+
+For Input:
+p = principal amount
+t = time period in years
+r = annual rate of interest
+
+This will give the output:
+simple interest = p*t*r and you're done!
